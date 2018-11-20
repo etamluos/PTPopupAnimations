@@ -247,7 +247,7 @@ class ViewController: UIViewController {
         // keep track of all running animators
         runningAnimators.append(transitionAnimator)
         runningAnimators.append(inTitleAnimator)
-        runningAnimators.append(ouatTitleAnimator)
+        runningAnimators.append(outTitleAnimator)
         
     }
 
