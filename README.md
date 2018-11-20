@@ -1,6 +1,6 @@
 # PTPopupAnimations
 <p align="center">
-<img src="readme-resources/Banner.png" style="max-height: 61px;" alt="MessengerKit for iOS">
+<img src="example.gif" style="max-height: 61px;" alt="PTPopupAnimations for iOS">
 </p>
 
 <p align="center">
@@ -8,3 +8,5 @@
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 </a>
 </p>
+# About
+Phung Van Tung
